@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Mario-F/docker-ansible/compare/v1.0.0...v1.0.1) (2023-02-26)
+
+
+### Bug Fixes
+
+* typo ([fe80c73](https://github.com/Mario-F/docker-ansible/commit/fe80c738792977491fd86b8a69c064fa470f1eb6))
+
 ## 1.0.0 (2023-02-26)
 
 
