@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Mario-F/docker-ansible/compare/v1.0.2...v1.0.3) (2023-02-26)
+
+
+### Miscellaneous
+
+* deactivate arm for now ([0c35293](https://github.com/Mario-F/docker-ansible/commit/0c352930b23a1c9e3d04b55f3ab423b71d6fc66b))
+
 ## [1.0.2](https://github.com/Mario-F/docker-ansible/compare/v1.0.1...v1.0.2) (2023-02-26)
 
 
