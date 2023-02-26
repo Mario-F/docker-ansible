@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Mario-F/docker-ansible/compare/v1.0.1...v1.0.2) (2023-02-26)
+
+
+### Bug Fixes
+
+* docker context copy+paste error ([a4d3afd](https://github.com/Mario-F/docker-ansible/commit/a4d3afd87987d3c75a8aebd2e9f19018740f9d8f))
+
 ## [1.0.1](https://github.com/Mario-F/docker-ansible/compare/v1.0.0...v1.0.1) (2023-02-26)
 
 
