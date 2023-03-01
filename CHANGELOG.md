@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/Mario-F/docker-ansible/compare/v1.0.3...v1.1.0) (2023-03-01)
+
+
+### Features
+
+* update zsh version ([32110ea](https://github.com/Mario-F/docker-ansible/commit/32110ea826f14caacee1509c75bb0e22b4e62a57))
+
 ## [1.0.3](https://github.com/Mario-F/docker-ansible/compare/v1.0.2...v1.0.3) (2023-02-26)
 
 
