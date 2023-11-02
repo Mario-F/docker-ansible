@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/Mario-F/docker-ansible/compare/v1.1.0...v1.2.0) (2023-11-02)
+
+
+### Features
+
+* add sshpass package ([8b28010](https://github.com/Mario-F/docker-ansible/commit/8b28010aa99d769fe95ccd2253f18398e9a75054))
+
 ## [1.1.0](https://github.com/Mario-F/docker-ansible/compare/v1.0.3...v1.1.0) (2023-03-01)
 
 
