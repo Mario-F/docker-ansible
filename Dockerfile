@@ -5,7 +5,7 @@ RUN apt-get update && apt-get upgrade -y && \
   apt-get install -y --no-install-recommends \
   curl bash tar gzip ca-certificates git openssl gnupg wget net-tools procps htop iperf3 default-mysql-client \
   build-essential libffi-dev rustc cargo libssl-dev python3 python3-pip python3-setuptools python3-dev \
-  screen vim dnsutils openssh-client rsync
+  screen vim dnsutils openssh-client rsync sshpass
 
 RUN mkdir /install
 WORKDIR /install
