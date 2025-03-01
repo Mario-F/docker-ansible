@@ -1,3 +1,14 @@
+## [1.3.0](https://github.com/Mario-F/docker-ansible/compare/v1.2.0...v1.3.0) (2025-03-01)
+
+### Bug Fixes
+
+* update semantic-release node version ([2b273c7](https://github.com/Mario-F/docker-ansible/commit/2b273c73ec15abb4099f2851d4c35f4e9bc17f73))
+* update sematnic release node version ([bab5d5e](https://github.com/Mario-F/docker-ansible/commit/bab5d5e7f14fe9b2defe993a13e4b097e31a4abc))
+
+### Features
+
+* make ANSIBLE_REQ configurable ([24df8db](https://github.com/Mario-F/docker-ansible/commit/24df8dbd594495664e29e784f905548874645096))
+
 ## [1.2.0](https://github.com/Mario-F/docker-ansible/compare/v1.1.0...v1.2.0) (2023-11-02)
 
 
