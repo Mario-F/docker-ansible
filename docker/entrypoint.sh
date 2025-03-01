@@ -3,7 +3,7 @@
 set -e
 
 PYTHON_REQ=$(mktemp)
-ANSIBLE_REQ=requirements.yml
+ANSIBLE_REQ=${ANSIBLE_REQ:-requirements.yml}
 SSH_DIR=/ssh
 
 # if path is directory, copy all files
