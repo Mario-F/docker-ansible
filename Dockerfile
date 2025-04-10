@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get upgrade -y && \
@@ -20,7 +20,7 @@ RUN sh -c "$(wget -O- https://github.com/deluan/zsh-in-docker/releases/download/
 RUN chsh -s /usr/bin/zsh root
 
 RUN ln -s /usr/bin/python3 /usr/bin/python
-RUN pip install --break-system-packages ansible pipenv
+RUN pip install ansible pipenv
 
 RUN rm -rf /var/lib/apt/lists/*
 
