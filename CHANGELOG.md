@@ -1,3 +1,13 @@
+## [1.5.0](https://github.com/Mario-F/docker-ansible/compare/v1.4.0...v1.5.0) (2025-04-10)
+
+### Bug Fixes
+
+* working on ubuntu24.04 update ([93c5144](https://github.com/Mario-F/docker-ansible/commit/93c51448cddadd8cd065d1a8058d6e899e644e47))
+
+### Features
+
+* update to latest on 22.04 base ([4cfb3f9](https://github.com/Mario-F/docker-ansible/commit/4cfb3f987d609d076735e3dd868109099bcd9796))
+
 ## [1.4.0](https://github.com/Mario-F/docker-ansible/compare/v1.3.0...v1.4.0) (2025-04-10)
 
 ### Features
