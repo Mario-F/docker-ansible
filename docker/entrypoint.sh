@@ -15,9 +15,8 @@ fi
 if [ "$1" = 'default' ]; then
   if test -f "$PYTHON_REQ"; then
       echo "Install $PYTHON_REQ"
-      python3 -m pip install pipenv
-      python3 -m pipenv requirements > "$PYTHON_REQ"
-      python3 -m pip install -r "$PYTHON_REQ"
+      pipenv requirements > "$PYTHON_REQ"
+      pip install --break-system-packages -r "$PYTHON_REQ"
   fi
 
   if test -f "$ANSIBLE_REQ"; then
